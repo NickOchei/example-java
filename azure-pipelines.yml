@@ -24,4 +24,4 @@ steps:
 - task: PublishPipelineArtifact@1 
   inputs:
     targetPath: $(Build.ArtifactStagingDirectory)
-    artifactName: WebApp1
+    artifactName: WebApp1.0
